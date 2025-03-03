@@ -12,7 +12,7 @@ A web-based application designed to create, manage, and analyze online surveys e
 - **Access Control**: Role-based permissions for admins and users.
 
 ### Prerequisites
-- Web server (Apache/Nginx)
+- Web server (Apache)
 - PHP 7.4+
 - Python 3.8+
 - MySQL 5.7+

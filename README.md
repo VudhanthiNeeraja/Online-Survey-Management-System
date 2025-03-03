@@ -14,8 +14,6 @@ A web-based application designed to create, manage, and analyze online surveys e
 ### Prerequisites
 - Web server (Apache)
 - PHP 7.4+
-- Python 3.8+
 - MySQL 5.7+
 - Composer (if using PHP)
-- Pip (if using Python)
 
